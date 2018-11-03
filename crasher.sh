@@ -3,8 +3,7 @@ red='\e[91m'
 red2='\e[91;3m'
 yellow='\e[93m'
 dodblue='\e[34m'
-white='\e[97m'
-back='\e[101;37m'  
+white='\e[97m' 
 clear
 echo -e $red"        |\_|/__/| "
 echo -e $red"       / / \/ \  \  "
